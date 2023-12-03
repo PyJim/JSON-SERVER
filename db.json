@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "coolemail@gmail.com",
+      "password": "$2a$10$q/1ZVPQg99K3U7CyTCFVaOXn5ZasBmWIOsm/RmOWRAX1Rf2H2lXa2",
+      "id": 1
+    },
+    {
+      "email": "anotheremail@gmail.com",
+      "password": "$2a$10$RBXXmFh6mNBQACzuCpFIjuZ9ZZHUVQVoIhe8XNTQcuNkjimIyt6vS",
+      "id": 2
+    }
+  ]
+}
